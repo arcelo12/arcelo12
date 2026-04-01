@@ -2,7 +2,7 @@
 
 Seorang **Developer, Network Engineer, & Fotografer** yang beroperasi dari Blitar, Jawa Timur. Biasa aktif dan paling produktif di malam hari untuk ngotak-ngatik jaringan, *vibe coding*, atau sekadar bereksperimen dengan AI. 
 
-Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar saya sedang *hunting* foto, mampir ke *event jejepangan*, atau menikmati waktu luang (dan ya, Shorekeeper punya tempat spesial buat saya ✨).
+Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar saya sedang *hunting* foto, mampir ke *event jejepangan*, atau menikmati waktu luang.
 
 ## 🚀 Tentang Saya
 * 🛠️ **Fokus Saat Ini:** Migrasi besar-besaran *Core Network* ke perangkat *enterprise* (Juniper MX, Arista, dan Huawei CE).

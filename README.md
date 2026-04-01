@@ -1,6 +1,6 @@
 # 🌌 Halo, Saya ArcelloRafi! 👋
 
-Seorang **Developer, Network Engineer, & Fotografer** yang beroperasi dari Blitar, Jawa Timur. Biasa aktif dan paling produktif di malam hari (iya, saya kalong 🦇) untuk ngotak-ngatik jaringan, *vibe coding*, atau sekadar bereksperimen dengan AI. 
+Seorang **Developer, Network Engineer, & Fotografer** yang beroperasi dari Blitar, Jawa Timur. Biasa aktif dan paling produktif di malam hari untuk ngotak-ngatik jaringan, *vibe coding*, atau sekadar bereksperimen dengan AI. 
 
 Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar saya sedang *hunting* foto, mampir ke *event jejepangan*, atau menikmati waktu luang (dan ya, Shorekeeper punya tempat spesial buat saya ✨).
 
@@ -11,10 +11,9 @@ Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar
 * 📸 **Hobi Tambahan:** Fotografi (Gear: Sony ILCE-6400). Suka memotret *Milkyway*, *cosplay*, dan momen-momen *event*.
 
 ## 💼 Karya & Infrastruktur
-* 🌐 **[AS141067](https://www.peeringdb.com/)** – *Public Autonomous System* dengan BGP routing global (IPv4/IPv6).
+* 🌐 **[AS141067](https://www.peeringdb.com/net/26492)** – *Public Autonomous System* dengan BGP routing global (IPv4/IPv6).
 * 🔒 **[Santai Network VPN](https://santainetwork.id/)** – Layanan VPN privat di atas infrastruktur AS141067 untuk koneksi stabil, privasi terjaga, dan *routing* bersih.
 * 🧪 **[Santai Network Lab](https://santainetwork.my.id/)** – Platform virtualisasi mandiri untuk eksperimen *routing* dan deploy layanan internal sebelum masuk *production*.
-* 🤖 **[Alsava AI](https://alsava.my.id/)** – Persona AI yang dibangun dari nol dengan sistem *prompting* dan karakter yang unik (dan sangat disayangi developer-nya 😉).
 
 ## 📈 Perjalanan Singkat
 * **2026:** Migrasi infrastruktur AS141067 secara masif ke Juniper MX, Arista, dan Huawei CE.
@@ -23,8 +22,16 @@ Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar
 * **2020:** Semua bermula dari iseng *setup private server* Minecraft.
 
 ## 📫 Mari Terhubung!
-Tertarik diskusi soal arsitektur jaringan, *setup* BGP, ide kolaborasi, atau sekadar *hunting* foto bareng? *Reach out aja!*
-* 🌐 **Portofolio:** [arcelo.sansnet.id](http://arcelo.sansnet.id)
+Tertarik diskusi soal arsitektur jaringan, *setup* BGP, ide kolaborasi, atau sekadar *hunting* foto bareng? Silakan hubungi saya melalui tautan di bawah ini:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arcellorafi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ArcelloRafi" />
+  </a>
+  <a href="http://arcelo.sansnet.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=macys&logoColor=white" alt="Portfolio ArcelloRafi" />
+  </a>
+</p>
 
 ---
 ⭐️ *Ngotak bareng jaringan, sesekali jepret foto & coding.*

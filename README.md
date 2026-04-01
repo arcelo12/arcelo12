@@ -1,21 +1,30 @@
-# Hi there, I'm Arcellorafi! 👋
+# 🌌 Halo, Saya ArcelloRafi! 👋
 
-Welcome to my GitHub profile! I'm a developer based in Blitar, East Java (📍 66161). I'm basically a nocturnal creature (kalong 🦇) who does my best work and coding when the rest of the world is asleep.
+Seorang **Developer, Network Engineer, & Fotografer** yang beroperasi dari Blitar, Jawa Timur. Biasa aktif dan paling produktif di malam hari (iya, saya kalong 🦇) untuk ngotak-ngatik jaringan, *vibe coding*, atau sekadar bereksperimen dengan AI. 
 
-## 💫 About Me
-- 🔭 I’m currently working on **[isi project kamu yang lagi dikerjain]**
-- 🌱 I’m currently learning **[isi teknologi/bahasa pemrograman baru]**
-- 🌸 When I'm away from the keyboard, you'll probably catch me hanging out at local *jejepangan* events!
-- ✨ Fun Fact: Shorekeeper holds a very important place in my heart (and basis).
-- 🌐 Check out my personal domain at [arcelo.sansnet.id](http://arcelo.sansnet.id)
+Kalau sedang tidak berurusan dengan *routing* atau baris kode, kemungkinan besar saya sedang *hunting* foto, mampir ke *event jejepangan*, atau menikmati waktu luang (dan ya, Shorekeeper punya tempat spesial buat saya ✨).
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Tools & Frameworks:** Git, React, Node.js
+## 🚀 Tentang Saya
+* 🛠️ **Fokus Saat Ini:** Migrasi besar-besaran *Core Network* ke perangkat *enterprise* (Juniper MX, Arista, dan Huawei CE).
+* 🎓 **Sertifikasi:** MikroTik MTCNA & MTCRE.
+* ⚙️ **Keahlian Utama:** BGP/OSPF, Linux, React, dan AI Prompting.
+* 📸 **Hobi Tambahan:** Fotografi (Gear: Sony ILCE-6400). Suka memotret *Milkyway*, *cosplay*, dan momen-momen *event*.
 
-## 📫 How to Reach Me
-- **Email:** [email kamu]
-- **Instagram/Socials:** [@username_kamu]
+## 💼 Karya & Infrastruktur
+* 🌐 **[AS141067](https://www.peeringdb.com/)** – *Public Autonomous System* dengan BGP routing global (IPv4/IPv6).
+* 🔒 **[Santai Network VPN](https://santainetwork.id/)** – Layanan VPN privat di atas infrastruktur AS141067 untuk koneksi stabil, privasi terjaga, dan *routing* bersih.
+* 🧪 **[Santai Network Lab](https://santainetwork.my.id/)** – Platform virtualisasi mandiri untuk eksperimen *routing* dan deploy layanan internal sebelum masuk *production*.
+* 🤖 **[Alsava AI](https://alsava.my.id/)** – Persona AI yang dibangun dari nol dengan sistem *prompting* dan karakter yang unik (dan sangat disayangi developer-nya 😉).
+
+## 📈 Perjalanan Singkat
+* **2026:** Migrasi infrastruktur AS141067 secara masif ke Juniper MX, Arista, dan Huawei CE.
+* **2024-2025:** Lulus sertifikasi MikroTik, mendalami *vibe coding*, fotografi, dan merintis proyek persona AI.
+* **2021-2023:** Eksplorasi ISP, administrasi sistem CentOS, hingga fokus penuh menjadi *Network Specialist*.
+* **2020:** Semua bermula dari iseng *setup private server* Minecraft.
+
+## 📫 Mari Terhubung!
+Tertarik diskusi soal arsitektur jaringan, *setup* BGP, ide kolaborasi, atau sekadar *hunting* foto bareng? *Reach out aja!*
+* 🌐 **Portofolio:** [arcelo.sansnet.id](http://arcelo.sansnet.id)
 
 ---
-⭐️ *From Blitar with lines of code and midnight coffee.*
+⭐️ *Ngotak bareng jaringan, sesekali jepret foto & coding.*
